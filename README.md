@@ -13,7 +13,7 @@ Do the following **every day** for **100 days**:
 
 | Day | Course | Description |
 |:---:|--------|-------------|
-|1| Beginner | Working with Variables in Python to Manage Data |
+|1| Beginner | [Working with Variables in Python to Manage Data](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%201) |
 |2|  | Understanding Data Types and How to Manipulate Strings |
 |3|  | Control Flow and Logical Operators |
 |4|  | Randomisation and Python Lists |
