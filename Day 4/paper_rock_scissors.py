@@ -55,11 +55,11 @@ def play():
   else:
     print("You lose")
 
-  retry = input("Do you want to play again? Type 'y' or 'n': ")
+  retry = input("Do you want to play again? Type 'y' or 'n': ").lower()
   
-  if retry != 'y':
-    print("Game Over.")
-  else:
+  if retry == 'y':
     play()
+  else:
+    print("Game Over.")
 
 play()
