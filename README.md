@@ -16,7 +16,7 @@ Do the following **every day** for **100 days**:
 |1| Beginner | [Working with Variables in Python to Manage Data](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%201) |
 |2|  | [Understanding Data Types and How to Manipulate Strings](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%202) |
 |3|  | [Control Flow and Logical Operators](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%203) |
-|4|  | Randomisation and Python Lists |
+|4|  | [Randomisation and Python Lists](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%204) |
 |5|  | Python Loops |
 |6|  | Python Functions & Karel |
 |7|  | Hangman |
