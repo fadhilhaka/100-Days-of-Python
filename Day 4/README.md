@@ -22,3 +22,5 @@
 
 ## [Rock Paper Scissors Challenge](https://replit.com/@fadhilhaka/rock-paper-scissors-start#main.py)
 
+[Restart Program With Input](https://stackoverflow.com/questions/40616549/restart-python-program-if-user-input-to-run-again-is-y)
+[Error and Exception](https://docs.python.org/3/tutorial/errors.html)
