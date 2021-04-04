@@ -31,6 +31,8 @@ The code above will print 1 to 9.
 
 ## [Create a Password Generator](https://replit.com/@fadhilhaka/password-generator-start#main.py)
 
+[Random choice](https://www.w3schools.com/python/ref_random_choice.asp)
+
 [Split string into array](https://stackoverflow.com/questions/4978787/how-to-split-a-string-into-an-array-of-characters-in-python)
 
 [Shuffle list/array](https://www.w3schools.com/python/ref_random_shuffle.asp)

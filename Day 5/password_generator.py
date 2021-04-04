@@ -15,16 +15,15 @@ nr_numbers = int(input(f"How many numbers would you like?\n"))
 pass_easy = ""
 
 for _ in range(nr_letters):
-    index = random.randint(0, len(letters)-1)
-    pass_easy += letters[index]
+    # index = random.randint(0, len(letters)-1)
+    # pass_easy += letters[index]
+    pass_easy += random.choice(letters)
 
 for _ in range(nr_numbers):
-    index = random.randint(0, len(numbers)-1)
-    pass_easy += numbers[index]
+    pass_easy += random.choice(numbers)
 
 for _ in range(nr_symbols):
-    index = random.randint(0, len(symbols)-1)
-    pass_easy += symbols[index]
+    pass_easy += random.choice(symbols)
 
 #Hard Level - Order of characters randomised:
 #e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
