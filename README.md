@@ -17,7 +17,7 @@ Do the following **every day** for **100 days**:
 |2|  | [Understanding Data Types and How to Manipulate Strings](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%202) |
 |3|  | [Control Flow and Logical Operators](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%203) |
 |4|  | [Randomisation and Python Lists](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%204) |
-|5|  | Python Loops |
+|5|  | [Python Loops](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%205) |
 |6|  | Python Functions & Karel |
 |7|  | Hangman |
 |8|  | Function Parameters & Caesar Cipher |
