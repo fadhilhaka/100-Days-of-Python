@@ -1,5 +1,9 @@
 # [Hangman](https://en.wikipedia.org/wiki/Hangman_(game))
 
+|                        |
+|:----------------------:|
+| ![](images/app_structure.png)  |
+
 [Hangman Game](https://hangmanwordgame.com/?fca=1&success=0#/)
 
 ## [Picking a Random Words and Checking Answers](https://replit.com/@fadhilhaka/Day-7-Hangman-1-Start#main.py)
