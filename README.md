@@ -19,7 +19,7 @@ Do the following **every day** for **100 days**:
 |4|  | [Randomisation and Python Lists](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%204) |
 |5|  | [Python Loops](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%205) |
 |6|  | [Python Functions & Karel](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%206) |
-|7|  | Hangman |
+|7|  | [Hangman](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%207) |
 |8|  | Function Parameters & Caesar Cipher |
 |9|  | Dictionaries, Nesting and the Secret Auction |
 |10|  | Functions with Outputs |
