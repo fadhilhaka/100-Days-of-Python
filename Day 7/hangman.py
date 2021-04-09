@@ -3,14 +3,16 @@ import hangman_art
 import hangman_words
 
 def play_hangman():
-    word_list               = hangman_words.word_list
-    correct_word            = random.choice(word_list)
-    guessed_letters         = ["_" for letter in correct_word]
-    logo                    = hangman_art.logo
-    stages                  = hangman_art.stages
-    player_lives            = 6
+    logo = hangman_art.logo
+    stages = hangman_art.stages
+    word_list = hangman_words.word_list
+    correct_word = random.choice(word_list)
+    guessed_letters = ["_" for letter in correct_word]
     current_guessed_letters = 0
-    is_inputed              = False
+    player_lives = 6
+    is_inputed = False
+
+    print(logo)
 
     while "_" in guessed_letters and player_lives > 0:
 
@@ -36,8 +38,8 @@ def play_hangman():
             else:
                 print(f"Wrong... {answer} is not in the word.")
             
-            print(guessed_letters)
-            print(stages[player_lives])
+        print(guessed_letters)
+        print(stages[player_lives])
 
     if player_lives > 0:
         print(f"Congratulation!!! You correctly guess the word {correct_word}")
@@ -51,5 +53,4 @@ def play_hangman():
     else:
         print("Thank you for playing.")
 
-print(logo)
 play_hangman()
