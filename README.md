@@ -20,7 +20,7 @@ Do the following **every day** for **100 days**:
 |5|  | [Python Loops](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%205) |
 |6|  | [Python Functions & Karel](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%206) |
 |7|  | [Hangman](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%207) |
-|8|  | Function Parameters & Caesar Cipher |
+|8|  | [Function Parameters & Caesar Cipher](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%208) |
 |9|  | Dictionaries, Nesting and the Secret Auction |
 |10|  | Functions with Outputs |
 |11|  | The Blackjack Capstone Project |
