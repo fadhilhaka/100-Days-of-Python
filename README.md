@@ -21,7 +21,7 @@ Do the following **every day** for **100 days**:
 |6|  | [Python Functions & Karel](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%206) |
 |7|  | [Hangman](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%207) |
 |8|  | [Function Parameters & Caesar Cipher](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%208) |
-|9|  | Dictionaries, Nesting and the Secret Auction |
+|9|  | [Dictionaries, Nesting and the Secret Auction](https://github.com/fadhilhaka/100-Days-of-Python/tree/main/Day%209) |
 |10|  | Functions with Outputs |
 |11|  | The Blackjack Capstone Project |
 |12|  | Scope & Number Guessing Game |
